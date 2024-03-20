@@ -1,5 +1,9 @@
 # tugas_widget_list_makanan
 
+NAMA : TORIQ CAESAR AVE SENA
+NIM : 222410102039
+KELAS : Pemrograman Berbasis Mobile
+
 A new Flutter project.
 
 ## Getting Started
